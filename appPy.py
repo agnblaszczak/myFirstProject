@@ -1,2 +1,2 @@
-print('my app ')
+print('my app  ')
 
